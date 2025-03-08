@@ -70,7 +70,7 @@ Data Visualization (Heatmaps, Scatter plots)
 
 
 
-git clone https://github.com/yourusername/hydrogen-refueling-optimization.git
+git clone https://github.com/Samiurr129/hydrogen-refueling-optimization.git
 
 cd hydrogen-refueling-optimization
 
@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 
 
 
-For any questions or collaborations, reach out via LinkedIn or email me at your.email@example.com.
+For any questions or collaborations, reach out via LinkedIn or email me at samiurr129@gmail.com
 
 
 
