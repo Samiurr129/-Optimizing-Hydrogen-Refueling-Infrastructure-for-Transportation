@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 
 
-python src/hydrogen_station_optimization.py
+Hydrozen Infracture.py
 
 
 
@@ -126,13 +126,6 @@ Real-World Impact: Supports governments and private sectors in achieving net-zer
 
 Contributions are welcome! Feel free to fork the repo, submit issues, or create pull requests. Let's build a cleaner, greener future together. 🌱
 
-
-
-📜 License
-
-
-
-This project is licensed under the MIT License.
 
 
 
