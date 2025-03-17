@@ -50,7 +50,7 @@ Data Visualization (Heatmaps, Scatter plots)
 
 ├── data/                      # Raw and processed datasets
 
-├── notebooks/                 # Jupyter notebooks for analysis
+├── notebooks/                 # Visual Code for analysis
 
 ├── src/                       # Python scripts for clustering and visualization
 
